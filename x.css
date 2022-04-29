@@ -1,0 +1,14 @@
+.pr{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgrey;
+    text-align: right;
+    border: 50px green;
+    
+}
+.table{
+ padding-left: 50%;
+ padding-right: 50%;   
+}
